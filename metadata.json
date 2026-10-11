@@ -1,0 +1,6 @@
+{
+  "name": "CanSat Mission Simulation & Digital Twin",
+  "description": "Virtual CanSat aerospace flight simulation and telemetry digital twin with real-time physics, sensor modeling, ground station dashboard, and mission analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
